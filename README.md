@@ -153,6 +153,25 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Handmade Hero](https://handmadehero.org)
 - [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
 
+### Machine Learning:
+
+- Build and Analyze Machine Learning Algorithms Evaluating Handwritten Digits 
+
+  - [Part 1 - Extract, Transform, Load (ETL)](https://youtu.be/E1K9SZCm0fQ?si=79yo-DnHsIrmBRy6) (video)
+  - [Part 2 - K-Nearest Neighbors)](https://youtu.be/oCF8QwJ_1-A?si=8IxpCd_m9dJcwrmr) (video)
+  - [Part 3 - K-Means Clustering Unsupervised)](https://youtu.be/knXGdIUExBY?si=Oh1oc9HCocZm4kp9) (video)
+  - [Part 4 - Deep Neural Networks)](https://youtu.be/tZp49wmFuOo?si=AToGD-I1wOfTz6Yp) (video)
+  - [Part 5 - Deep Neural Networks part 2)](https://youtu.be/XyYuzBdddYk?si=LUoYzBTlI3RrOEtq) (video)
+  - [Part 6 - Deep Neural Network Implementation and Testing)](https://youtu.be/DVQRaG1l72A?si=YRXmJrXOXoGrxFsJ) (video)
+
+  - [Part 1 - Getting MNIST Dataset Images)](https://youtu.be/gbGPBE26Fkc?si=RsMIDz8AQam6hQES) (video)
+  - [Part 2 - Training MNIST Handwritten Digit Images with MLP)](https://youtu.be/70g9QHndyXA?si=tcXSgzd2CqV12FtC) (video)
+  - [Part 3 - Testing the Trained Model)](https://youtu.be/pLVrxjkwpyw?si=OwnvsywLtz2E2O7c) (video)
+  - [Part 4 - Implementing GUI with QML)](https://youtu.be/BF0HxG5iy0k?si=59XWF8qhm6jycc05) (video)
+
+- [Create Windows Machine Learning Desktop Application](https://learn.microsoft.com/en-us/windows/ai/windows-ml/get-started-desktop)
+- [Implement Well-Known Machine Learning Algorithms](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP)
+
 ## C#:
 
 - [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
@@ -622,6 +641,18 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
 - [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 - [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
+
+### Machine Learning:
+
+- [Interactive Introduction to Machine Learning using R](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html)
+- [Build K-Nearest Neighbor Algorithm with Iris Dataset](https://www.datacamp.com/tutorial/machine-learning-in-r)
+- [Repository of R Machine Learning Projects to Follow](https://github.com/PacktPublishing/R-Machine-Learning-Projects)
+- [Build a Simple Linear Regression Model](https://slogix.in/source-code/r-machine-learning-sample/how-to-implement-simple-linear-regression-model-using-r/)
+- [Build a Multiple Linear Regression Model](https://slogix.in/source-code/r-machine-learning-sample/how-to-implement-multiple-linear-regression-using-r/)
+
+### Data Science:
+
+- [Repository of Tutorials](https://github.com/ujjwalkarn/DataScienceR)
 
 ## Rust:
 
